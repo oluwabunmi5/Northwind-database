@@ -1,1 +1,1 @@
-# Northwind-database
+The Northwind database is a sample database created by Microsoft that simulates a fictional company's data. It includes tables for customers, orders, products, and suppliers, making it  ideal for practicing SQL queries and learning about database management.
